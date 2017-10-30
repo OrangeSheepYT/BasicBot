@@ -1,21 +1,14 @@
 # BasicBot
 A basic example of a Discord Bot in Python.
 
-[![Banner](https://i.imgur.com/bpLVk10.png)](https://github.com/Habchy/BasicBot)
-
-**Note:** Before starting here please have a basic understand of how discord.py works!
-(If you don't please click [here](https://github.com/Habchy/BasicBot/blob/master/README.md#very-useful-links))
-
-Everything you need is located in "Basic Bot.py" which is available above.
+Everything you need is located in "bot.py" which is available above. (Feel free to take code from my other projects.)
 
 For this code to work I would recommend for you to have **Python Version 3.6.0** installed.
-Want to learn how you can check your version? Click [here](https://github.com/Habchy/BasicBot/blob/master/README.md#checking-your-python-version)!
 
-I would also recommend you have **Discord.py** downloaded. You can find the download tutorial for that [here](https://github.com/Habchy/BasicBot/blob/master/README.md#how-to-install-discordpy-latest-version).
+I would also recommend you have **Discord.py** downloaded. (Open cmd and type py -m pip install discord.py) :D
 
 # Very Useful Links
 Please use these links to your advantage, they will help you out!
-While using these links, please use BasicBot as a reference and always check out the code.
 
 * [Official Discord.py Github](https://github.com/Rapptz/discord.py)
 * [Official Discord.py Documentation](https://discordpy.readthedocs.io/en/latest/)
@@ -26,11 +19,7 @@ While using these links, please use BasicBot as a reference and always check out
 
 I encourage you to join the DiscordAPI server and hangout in the **#python_discord-py** channel.
 There are tons of people there that are willing to help you out if you get stuck with something!
-
-# Example
-Just an example of how the BasicBot works. In this example I used "**-**" as the prefix, but you are free to choose your own.
-
-![Example](https://i.imgur.com/FsEIndD.gif)
+)
 
 # Getting a Bot Token
 Below is a quick gif showing how you to get a bot token. You will need this to run your bot!
@@ -75,14 +64,7 @@ I would recommend the one with voice support so you have it just in case you nee
 'python3' is not recognized as an internal or external command,
 operable program or batch file.
 ```
-Just replace **python3** with **python**.
+Just replace **python3** with **python**
 
-# Support
+If Matt's Premade bot helped you please press the ★ (star) button above it helps me out!
 
-If you need help please join my Discord server: [Habchy's Lounge](https://discord.gg/FNNNgqb)
-
-If BasicBot helped you please press the ★ (star) button above it helps me out!
-
-# A Little Message
-
-If you are a Discord Bot developer that codes in Discord.py (Python) and you would like to help out by adding something please feel free to contact me and I will try to get back to you as soon as possible. I am open to criticism and suggestions as long as you know what you are talking about.
